@@ -28,7 +28,7 @@ For a subset we took the main 18 life insurance companies operating on the Itali
 
 ## Description of the process
 
-The process of extraction is performed in 4 phases.
+The process of extraction is performed in 5 phases.
 
 ### Phase 1: Find the reports and identify the relevant tables (manually). 
  1) Identify the new SFCR report and save it into the folder Input.
@@ -48,11 +48,12 @@ The notebook applies fixes to the DataFrame to make the numbers closer to the re
 ### Phase 4: Run the Cross-Validation notebook. 
 The notebook applies a series of tests that check for the internal consistency between the numbers. Flags the potential errors.
 
+### Phase 5: Final modifications to the table and a manual inspection. 
+
 ## Contact
-A version of this process is used by OSM to extract data for our actuarial models. One of the benefits of releasing our code is the feedback and improvement ideas. If you have any, you can contact us at gregor@osmodelling.com.
+A version of this process is used by us to extract data for our actuarial models. One of the benefits of releasing our code is the feedback and improvement ideas. If you have any, you can contact us at gregor@osmodelling.com.
 
 ## License
 MIT license
 
-### Phase 5: Final modifications to the table and a manual inspection. 
 
