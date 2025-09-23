@@ -28,7 +28,7 @@ For a subset we took the main 18 life insurance companies operating on the Itali
 
 ## Description of the process
 
-The process of extraction is performed in 5 phases.
+The process of extraction is performed in 4 phases.
 
 ### Phase 1: Find the reports and identify the relevant tables (manually). 
  1) Identify the new SFCR report and save it into the folder Input.
