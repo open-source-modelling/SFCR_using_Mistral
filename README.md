@@ -1,4 +1,4 @@
-# Transcribe SFRC tables with Mistral AI
+# Transcribe SFCR tables with Mistral AI
 
 Example Python code to transcribe tables from regulatory filings into a digital form. To run these examples you will need an [Anaconda environment](https://www.anaconda.com/), a Mistral [API key](https://docs.mistral.ai/getting-started/quickstart/).
 In this example we transcribed the balance sheet table from Solvency and Financial Conditions reports that companies need to file every year.
