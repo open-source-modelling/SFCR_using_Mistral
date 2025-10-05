@@ -48,7 +48,7 @@ The notebook applies fixes to the DataFrame to make the numbers closer to the re
 ### Phase 3: Run the Cross-Validation notebook (to be released on 9-October-2025). 
 The notebook applies a series of tests that check for the internal consistency between the numbers. Flags potential errors. After the individual fixes are applied, it saves the table into the Cleaner_Combined folder.
 
-### Phase 4: Final modifications to the table and a manual inspection. 
+### Phase 4: Final modifications to the table and a manual inspection (no script for this step). 
 
 ## Contact
 A version of this process is used by us to extract data for our actuarial models. One of the benefits of releasing our code is the feedback and improvement ideas. If you have any, you can contact us at gregor@osmodelling.com.
