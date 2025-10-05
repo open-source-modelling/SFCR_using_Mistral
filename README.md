@@ -42,7 +42,7 @@ The notebook performs the following steps (with slight modifications depending o
  3) Fix the systemic errors that prevent the table from being saved as DataFrame.
  4) Save the DataFrame into the Output folder.
 
-### Phase 3: Run the Processing notebook. 
+### Phase 3: Run the Processing notebook (released on 4-October-2025). 
 The notebook applies fixes to the DataFrame to make the numbers closer to the reported numbers. It joins all the tables into a single dataset. 
 
 ### Phase 4: Run the Cross-Validation notebook. 
