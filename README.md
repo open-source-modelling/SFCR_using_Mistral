@@ -45,7 +45,7 @@ The notebook performs the following steps (with slight modifications depending o
 ### Phase 2: Run the Processing notebook (released on 4-October-2025). 
 The notebook applies fixes to the DataFrame to make the numbers closer to the reported numbers. It joins all the tables into a single dataset. 
 
-### Phase 3: Run the Cross-Validation notebook. 
+### Phase 3: Run the Cross-Validation notebook (to be released on 9-October-2025). 
 The notebook applies a series of tests that check for the internal consistency between the numbers. Flags the potential errors.
 
 ### Phase 4: Final modifications to the table and a manual inspection. 
