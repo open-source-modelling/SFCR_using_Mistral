@@ -45,7 +45,7 @@ The notebook performs the following steps (with slight modifications depending o
 ### Phase 2: Run the Processing notebook (released on 4-October-2025). 
 The notebook applies fixes to the DataFrame to make the numbers closer to the reported numbers. It joins all the tables into a single dataset and saves it into the Dirty_Combined folder. 
 
-### Phase 3: Run the Cross-Validation notebook (to be released on 8-October-2025). 
+### Phase 3: Run the Cross-Validation notebook (released on 7-October-2025). 
 The notebook applies a series of tests that check for the internal consistency between the numbers. Flags potential errors. After the individual fixes are applied, it saves the table into the Cleaner_Combined folder.
 
 ### Phase 4: Final modifications to the table and a manual inspection (no script for this step). 
