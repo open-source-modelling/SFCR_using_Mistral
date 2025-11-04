@@ -1,0 +1,16 @@
+﻿VZAJEMNA,company,document_name,table_name,page_number,output_pdf_path,output_final_path,codes_path,leto
+GENERALI_02_1,GENERALI,Input\Porocilo-o-solventnosti-in-financnem-polozaju-SFCR_2024.pdf,S.02.01.02_A,83,Single_pdf/GENERALI_S02_01_02_1_2024.pdf,Output/GENERALI_S02_01_02_1_2024.csv,Codes/Codes_S02_A.csv,2024
+GENERALI_02_2,GENERALI,Input\Porocilo-o-solventnosti-in-financnem-polozaju-SFCR_2024.pdf,S.02.01.02_L,84,Single_pdf/GENERALI_S02_01_02_2_2024.pdf,Output/GENERALI_S02_01_02_2_2024.csv,Codes/Codes_S02_L.csv,2024
+TRIGLAV_02_1,TRIGLAV,Input\Poročilo+o+solventnosti+in+finančnem+položaju+Zavarovalnice+Triglav+d.d.+za+leto+2024.pdf,S.02.01.02_A,110,Single_pdf/TRIGLAV_S02_01_02_1_2024.pdf,Output/TRIGLAV_S02_01_02_1_2024.csv,Codes/Codes_S02_A_Triglav.csv,2024
+TRIGLAV_02_2,TRIGLAV,Input\Poročilo+o+solventnosti+in+finančnem+položaju+Zavarovalnice+Triglav+d.d.+za+leto+2024.pdf,S.02.01.02_L,111,Single_pdf/TRIGLAV_S02_01_02_2_2024.pdf,Output/TRIGLAV_S02_01_02_2_2024.csv,Codes/Codes_S02_L_Triglav.csv,2024
+PRVA_02_1,PRVA,Input\Prva-osebna-zavarovalnica-PSFP_2024-20250423.pdf,S.02.01.02_A,63,Single_pdf/PRVA_S02_01_02_1_2024.pdf,Output/PRVA_S02_01_02_1_2024.csv,,2024
+PRVA_02_2,PRVA,Input\Prva-osebna-zavarovalnica-PSFP_2024-20250423.pdf,S.02.01.02_L,64,Single_pdf/PRVA_S02_01_02_2_2024.pdf,Output/PRVA_S02_01_02_2_2024.csv,,2024
+MODRA_02_1,MODRA,Input\Revidirano-SFCR-porocilo-2024.pdf,S.02.01.02_A,83,Single_pdf/MODRA_S02_01_02_1_2024.pdf,Output/MODRA_S02_01_02_1_2024.csv,,2024
+MODRA_02_2,MODRA,Input\Revidirano-SFCR-porocilo-2024.pdf,S.02.01.02_L,84,Single_pdf/MODRA_S02_01_02_2_2024.pdf,Output/MODRA_S02_01_02_2_2024.csv,,2024
+MODRA_02_3,MODRA,Input\Revidirano-SFCR-porocilo-2024.pdf,S.02.01.02_L2,85,Single_pdf/MODRA_S02_01_02_3_2024.pdf,Output/MODRA_S02_01_02_3_2024.csv,,2024
+VZAJEMNA_02_1,VZAJEMNA,Input\Vzajemna_2024.pdf,S.02.01.02_A,72,Single_pdf/VZAJEMNA_S02_01_02_1_2024.pdf,Output/VZAJEMNA_S02_01_02_1_2024.csv,,2024
+VZAJEMNA_02_2,VZAJEMNA,Input\Vzajemna_2024.pdf,S.02.01.02_L,73,Single_pdf/VZAJEMNA_S02_01_02_2_2024.pdf,Output/VZAJEMNA_S02_01_02_2_2024.csv,,2024
+GRAWE_02_1,GRAWE,Input\Grawe_2024.pdf,S.02.01.02_A,112,Single_pdf/GRAWE_S02_01_02_1_2024.pdf,Output/GRAWE_S02_01_02_1_2024.csv,,2024
+GRAWE_02_2,GRAWE,Input\Grawe_2024.pdf,S.02.01.02_L,113,Single_pdf/GRAWE_S02_01_02_2_2024.pdf,Output/GRAWE_S02_01_02_2_2024.csv,,2024
+SAVA_02_1,SAVA,Input\Sava-za-leto-2024.pdf,S.02.01.02_A,104,Single_pdf/SAVA_S02_01_02_1_2024.pdf,Output/SAVA_S02_01_02_1_2024.csv,,2024
+SAVA_02_2,SAVA,Input\Sava-za-leto-2024.pdf,S.02.01.02_L,105,Single_pdf/SAVA_S02_01_02_2_2024.pdf,Output/SAVA_S02_01_02_2_2024.csv,,2024

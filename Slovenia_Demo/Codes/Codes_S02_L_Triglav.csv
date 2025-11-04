@@ -1,0 +1,32 @@
+﻿Row,Name,Code
+0,ZTR – Neživljenjska zavarovanja,R0510
+1,ZTR – Neživljenjska zavarovanja (brez zdravstvenih zavarovanj),R0520
+2,Najboljša ocena,R0540
+3,Dodatek za tveganje,R0550
+4,ZTR – Zdravstvena zavarovanja (podobna neživljenjskim),R0560
+5,Najboljša ocena,R0580
+6,Dodatek za tveganje,R0590
+7,"ZTR – Življenjska zavarovanja (razen zavarovanj, vezanih na indeks ali enoto premoženja)",R0600
+8,ZTR – Zdravstvena zavarovanja (podobna življenjskim),R0610
+9,Najboljša ocena,R0630
+10,Dodatek za tveganje,R0640
+11,"ZTR – Življenjska zavarovanja (razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja)",R0650
+12,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0660
+13,Najboljša ocena,R0670
+14,Dodatek za tveganje,R0680
+15,"ZTR – Zavarovanja, vezana na indeks ali enoto premoženja",R0690
+16,Najboljša ocena,R0710
+17,Dodatek za tveganje,R0720
+18,"Rezervacije, razen zavarovalno-tehničnih rezervacij",R0750
+19,Depoziti pozavarovateljev,R0770
+20,Odložene obveznosti za davek,R0780
+21,Izvedeni finančni instrumenti,R0790
+22,"Finančne obveznosti, razen zneskov, dolgovanih kreditnim institucijam",R0810
+23,Obveznosti iz naslova zavarovanja in obveznosti do posrednikov,R0820
+24,Obveznosti iz naslova pozavarovanja,R0830
+25,"Obveznosti (do kupcev, nepovezane z zavarovanjem)",R0840
+26,Podrejene obveznosti,R0850
+27,"Podrejene obveznosti, ki so del osnovnih lastnih sredstev",R0870
+28,"Vse druge obveznosti, ki niso prikazane drugje",R0880
+29,Obveznosti skupaj,R0900
+30,Presežek sredstev nad obveznostmi,R1000

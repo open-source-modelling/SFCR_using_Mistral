@@ -1,0 +1,39 @@
+CODE,DESCRIPTION,C0010
+R0520,Zavarovalno-tehnične rezervacije - premoženjska zavarovanja (brez zdravstvenih zavarovanj),27.797
+R0530,"ZTR, izračunane kot celota",0
+R0540,Najboljša ocena,25.869
+R0550,Marža za tveganje,1.928
+R0560,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna premoženjskim),307
+R0570,"ZTR, izračunane kot celota",0
+R0580,Najboljša ocena,121
+R0590,Marža za tveganje,186
+R0600,"Zavarovalno-tehnične rezervacije - življenjska zavarovanja (razen zavarovanj, vezanih na indeks ali enoto premoženja)",76.454
+R0610,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna življenjskim),0
+R0620,"ZTR, izračunane kot celota",0
+R0630,Najboljša ocena,0
+R0640,Marža za tveganje,0
+R0650,"Zavarovalno-tehnične rezervacije - življenjska zavarovanja (razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja)",76.454
+R0660,"ZTR, izračunane kot celota",0
+R0670,Najboljša ocena,73.949
+R0680,Marža za tveganje,2.505
+R0690,"Zavarovalno-tehnične rezervacije - zavarovanja, vezana na indeks ali enoto premoženja",49.334
+R0700,"ZTR, izračunane kot celota",0
+R0710,Najboljša ocena,47.384
+R0720,Marža za tveganje,1.950
+R0740,Pogojne obveznosti,0
+R0750,"Rezervacije, razen zavarovalno-tehničnih rezervacij",745
+R0760,Obveznosti iz naslova pokojninskih shem,0
+R0770,Depoziti pozavarovateljev,0
+R0780,Odložene obveznosti za davek,11.923
+R0790,Izvedeni finančni instrumenti,0
+R0800,"Zneski, dolgovani kreditnim institucijam",0
+R0810,"Finančne obveznosti, razen zneskov, dolgovanih kreditnim institucijam",0
+R0820,Obveznosti iz naslova zavarovanja in obveznosti do posrednikov,6.311
+R0830,Obveznosti iz naslova pozavarovanja,1.439
+R0840,"Obveznosti (do kupcev, nepovezane z zavarovanjem)",3.609
+R0850,Podrejene obveznosti,0
+R0860,"Podrejene obveznosti, ki niso del osnovnih lastnih sredstev",0
+R0870,"Podrejene obveznosti, ki so del osnovnih lastnih sredstev",0
+R0880,"Vse druge obveznosti, ki niso prikazane drugje",0
+R0900,Obveznosti skupaj,177.919
+R1000,Presežek sredstev nad obveznostmi,48.133

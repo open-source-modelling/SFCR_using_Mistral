@@ -1,0 +1,42 @@
+CODE,DESCRIPTION,C0010
+R0030,Neopredmetena sredstva,0
+R0040,Odložene terjatve za davek,0
+R0050,Presežek iz naslova pokojninskih shem,0
+R0060,Opredmetena osnovna sredstva v posesti za lastno uporabo,29.257
+R0070,"Naložbe (razen sredstev v posesti v zvezi s pogodbami, vezanimi na indeks ali enoto premoženja)",596.144
+R0080,Nepremičnine (razen za lastno uporabo),10.578
+R0090,"Deleži v povezanih podjetjih, vključno z udeležbami",321
+R0100,Lastniški vrednostni papirji,20.868
+R0110,"Lastniški vrednostni papirji, ki kotirajo na borzi",0
+R0120,"Lastniški vrednostni papirji, ki ne kotirajo na borzi",20.868
+R0130,Obveznice,523.065
+R0140,Državne obveznice,416.063
+R0150,Podjetniške obveznice,83.561
+R0160,Strukturirani vrednostni papirji,23.441
+R0170,"Vrednostni papirji, zavarovani s premoženjem",0
+R0180,Kolektivni naložbeni podjemi,41.307
+R0190,Izvedeni finančni instrumenti,0
+R0200,"Depoziti, ki niso denarni ustrezniki",4
+R0210,Druge naložbe,0
+R0220,"Sredstva v posesti v zvezi s pogodbami, vezanimi na indeks ali enoto premoženja",501.572
+R0230,Krediti in hipoteke,715
+R0240,"Krediti, vezani na police",678
+R0250,Krediti in hipoteke posameznikom,0
+R0260,Drugi krediti in hipoteke,37
+R0270,Izterljivi zneski iz pozavarovanj iz naslova:,25.823
+R0280,"neživljenjskih zavarovanj in zdravstvenih zavarovanj, podobnih neživljenjskim",41.167
+R0290,neživljenjskih zavarovanj brez zdravstvenih zavarovanj,41.167
+R0300,"zdravstvenih zavarovanj, podobnih neživljenjskim",0
+R0310,"življenjskih zavarovanj in zdravstvenih zavarovanj, podobnih življenjskim, razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja",-15.036
+R0320,"zdravstvenih zavarovanj, podobnih življenjskim",0
+R0330,"življenjskih zavarovanj, razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja",-15.036
+R0340,"življenjskih zavarovanj, vezanih na indeks ali enoto premoženja",-308
+R0350,Depoziti pri cedentih,0
+R0360,Terjatve iz naslova zavarovanj in terjatve do posrednikov,23.219
+R0370,Terjatve iz naslova pozavarovanj,14.191
+R0380,"Terjatve (do kupcev, nepovezane z zavarovanjem)",11.588
+R0390,Lastne delnice (v posesti neposredno),0
+R0400,"Zneski, dolgovani podjetju v zvezi s postavkami lastnih sredstev ali ustanovnim kapitalom, ki je bil vpoklican in še ni vplačan",0
+R0410,Denar in denarni ustrezniki,4.057
+R0420,"Vsa druga sredstva, ki niso prikazana drugje",9.357
+R0500,Sredstva skupaj,1.215.923

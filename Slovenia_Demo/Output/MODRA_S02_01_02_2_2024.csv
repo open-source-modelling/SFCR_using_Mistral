@@ -1,0 +1,28 @@
+CODE,DESCRIPTION,C0010
+R0340,"življenjskih zavarovanj, vezanih na indeks ali enoto premoženja","0,00"
+R0350,Depoziti pri cedentih,"0,00"
+R0360,Terjatve iz naslova zavarovanj in terjatve do posrednikov,"0,00"
+R0370,Terjatve iz naslova pozavarovanj,"0,00"
+R0380,"Terjatve (do kupcev, nepovezane z zavarovanjem)","$49.847,71$"
+R0390,Lastne delnice (v posesti neposredno),"0,00"
+R0400,"Zneski, dolgovani podjetju v zvezi s postavkami lastnih sredstev ali ustanovnim kapitalom, ki je bil vpoklican in še ni vplačan","0,00"
+R0410,Denar in denarni ustrezniki,"$6.958,29$"
+R0420,"Vsa druga sredstva, ki niso prikazana drugje","$4.322,33$"
+R0500,Sredstva skupaj,"896.994,37"
+,Vrednost po <br> Solventnosti II,
+:--,:--,:--:
+C0010,Obveznosti,
+R0510,Zavarovalno-tehnične rezervacije - neživljenjska zavarovanja,"102,81"
+R0520,Zavarovalno-tehnične rezervacije - neživljenjska zavarovanja (brez <br> zdravstvenih zavarovanj),"0,00"
+R0530,"Zavarovalno-tehnične rezervacije, izračunane kot celota","0,00"
+R0540,Najboljša ocena,"0,00"
+R0550,Marža za tveganje,"0,00"
+R0560,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna <br> neživljenjskim),"102,81"
+R0570,"Zavarovalno-tehnične rezervacije, izračunane kot celota","0,00"
+R0580,Najboljša ocena,"96,13"
+R0590,Marža za tveganje,"6,68"
+R0600,"Zavarovalno-tehnične rezervacije - življenjska zavarovanja (razen zavarovanj, <br> vezanih na indeks ali enoto premoženja)","$382.508,46$"
+R0610,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna <br> življenjskim),"0,00"
+R0620,"Zavarovalno-tehnične rezervacije, izračunane kot celota","0,00"
+R0630,Najboljša ocena,"0,00"
+R0640,Marža za tveganje,"0,00"

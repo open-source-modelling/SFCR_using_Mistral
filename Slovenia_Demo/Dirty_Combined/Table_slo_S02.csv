@@ -1,0 +1,83 @@
+,MASTER,MODRA,TRIGLAV,PRVA,GENERALI,VZAJEMNA,GRAWE,SAVA
+,NAME,C0010,C0010,C0010,C0010,C0010,C0010,C0010
+CODE,,,,,,,,
+R0030,Intangible assets,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0040,Deferred tax assets,20354.71,15095.0,220.0,0.0,0.0,6509.0,12418.0
+R0050,Pension benefit surplus,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0060,"Property, plant & equipment held for own use",1788.0,84878.0,2894.0,29257.0,7886.0,6737.0,45525.0
+R0070,Investments (other than assets held for index-linked and unit-linked contracts),731048.27,2193373.0,22286.0,596144.0,99946.0,154435.0,730808.0
+R0080,Property (other than for own use),0.0,59450.0,0.0,10578.0,945.0,8623.0,11410.0
+R0090,"Holdings in related undertakings, including participations",58863.54,516941.0,0.0,321.0,5290.0,0.0,3250.0
+R0100,Equities,100654.7,7621.0,0.0,20868.0,4016.0,65.0,1241.0
+R0110,Equities - listed,99140.97,2779.0,0.0,0.0,3772.0,0.0,487.0
+R0120,Equities - unlisted,1513.73,4841.0,0.0,20868.0,243.0,65.0,755.0
+R0130,Bonds,463741.46,1456791.0,18620.0,523065.0,85992.0,109268.0,658890.0
+R0140,Government Bonds,303477.09,998784.0,10138.0,416063.0,44599.0,85800.0,444341.0
+R0150,Corporate Bonds,159724.74,456959.0,8482.0,83561.0,41393.0,22488.0,214549.0
+R0160,Structured notes,539.63,1048.0,0.0,23441.0,0.0,981.0,0.0
+R0170,Collateralised securities,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0180,Collective Investments Undertakings,104334.42,145318.0,2714.0,41307.0,3703.0,36479.0,53930.0
+R0190,Derivatives,0.0,20.0,0.0,0.0,0.0,0.0,0.0
+R0200,Deposits other than cash equivalents,3454.15,7152.0,952.0,4.0,0.0,0.0,2087.0
+R0210,Other investments,0.0,81.0,0.0,0.0,0.0,0.0,0.0
+R0220,Assets held for index-linked and unit-linked contracts,0.0,938881.0,23556.0,501572.0,0.0,50692.0,176367.0
+R0230,Loans and mortgages,82675.06,5189.0,2798.0,715.0,535.0,254.0,388.0
+R0240,Loans on policies,0.0,3657.0,0.0,678.0,0.0,210.0,0.0
+R0250,Loans and mortgages to individuals,82675.06,0.0,0.0,0.0,0.0,45.0,0.0
+R0260,Other loans and mortgages,0.0,1532.0,2798.0,37.0,535.0,0.0,388.0
+R0270,Reinsurance recoverables from:,0.0,169773.0,-2750.0,25823.0,-350.0,4552.0,96250.0
+R0280,Non-life and health similar to non-life ,0.0,163932.0,255.0,41167.0,-35.0,6032.0,85364.0
+R0290,Non-life excluding health,0.0,161358.0,0.0,41167.0,0.0,6023.0,83064.0
+R0300,Health similar to non-life,0.0,2574.0,255.0,0.0,-35.0,8.0,2300.0
+R0310,"Life and health similar to life, excluding health and index-linked and unit-linked",0.0,5841.0,-3005.0,-15036.0,-315.0,-1438.0,10925.0
+R0320,Health similar to life,0.0,2.0,-261.0,0.0,-315.0,0.0,-359.0
+R0330,Life excluding health and index-linked and unit-linked,0.0,5839.0,-2744.0,-15036.0,0.0,-1438.0,11283.0
+R0340,Life index-linked and unit-linked,0.0,0.0,0.0,-308.0,0.0,-41.0,-39.0
+R0350,Deposits to cedants,0.0,16.0,0.0,0.0,0.0,0.0,0.0
+R0360,Insurance and intermediaries receivables,0.0,24508.0,0.0,23219.0,0.0,339.0,17717.0
+R0370,Reinsurance receivables,0.0,37477.0,0.0,14191.0,0.0,0.0,24.0
+R0380,"Receivables (trade, not insurance)",49847.71,28068.0,1107.0,11588.0,183.0,1714.0,2609.0
+R0390,Own shares (held directly),0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0400,Amounts due in respect of own fund items or initial fund called up but not yet paid in,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0410,Cash and cash equivalents,6958.29,15194.0,974.0,4057.0,6798.0,640.0,21661.0
+R0420,"Any other assets, not elsewhere shown ",4322.33,3622.0,164.0,9357.0,686.0,179.0,1223.0
+R0500,Total assets,896994.37,3516075.0,0.0,1215923.0,115683.0,226052.0,1104989.0
+R0510,Technical provisions - non-life,102.81,596783.0,0.0,269585.0,13908.0,0.0,413179.0
+R0520,Technical provisions - non-life (excluding health),0.0,580589.0,0.0,253583.0,21.0,27797.0,403688.0
+R0530,TP calculated as a whole,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0540,Best estimate,0.0,557398.0,0.0,244584.0,13.0,25869.0,381546.0
+R0550,Risk margin,0.0,23191.0,0.0,8998.0,8.0,1928.0,22142.0
+R0560,Technical provisions - health (similar to non-life),102.81,16194.0,0.0,16002.0,13887.0,307.0,9492.0
+R0570,TP calculated as a whole,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0580,Best estimate,96.13,15033.0,0.0,15381.0,11294.0,121.0,4241.0
+R0590,Risk margin,6.68,1161.0,0.0,621.0,2593.0,186.0,5251.0
+R0600,TP - life (excluding index-linked and unit-linked),382508.46,699761.0,3099.0,111451.0,1046.0,76454.0,149727.0
+R0610,Technical provisions - health (similar to life),0.0,147.0,59.0,506.0,1046.0,0.0,-8111.0
+R0620,TP calculated as a whole,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0630,Best estimate,0.0,147.0,-408.0,417.0,316.0,0.0,-9382.0
+R0640,Risk margin,0.0,147.0,466.0,89.0,729.0,0.0,1271.0
+R0650,TP - life (excluding health and index-linked and unit-linked),0.0,0.0,304.0,110945.0,0.0,76454.0,157838.0
+R0660,TP calculated as a whole,0.0,699614.0,0.0,0.0,0.0,0.0,0.0
+R0670,Best estimate,375513.91,678631.0,-1231.0,98449.0,0.0,73949.0,154142.0
+R0680,Risk margin,6994.55,20983.0,4272.0,12496.0,0.0,2505.0,3695.0
+R0690,TP - index-linked and unit-linked,-66332.54,889606.0,17194.0,442096.0,0.0,49334.0,161048.0
+R0700,TP calculated as a whole,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0710,Best estimate,-127229.01,868864.0,1481.0,412185.0,0.0,47384.0,158648.0
+R0720,Risk margin,60896.46,20742.0,2384.0,29911.0,0.0,195.0,2401.0
+R0740,Contingent liabilities,0.0,0.0,0.0,136.0,436.0,0.0,0.0
+R0750,Provisions other than technical provisions,451.59,14878.0,45.0,0.0,24856.0,745.0,6865.0
+R0760,Pension benefit obligations,12934.52,0.0,112.0,0.0,0.0,0.0,0.0
+R0770,Deposits from reinsurers,0.0,16.0,0.0,999.0,0.0,0.0,0.0
+R0780,Deferred tax liabilities,64650.52,12988.0,2333.0,6362.0,312.0,11923.0,18592.0
+R0790,Derivatives,0.0,47.0,0.0,0.0,0.0,0.0,0.0
+R0800,Debts owed to credit institutions,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0810,Financial liabilities other than debts owed to credit institutions,0.0,6.0,0.0,4768.0,414.0,0.0,4730.0
+R0820,Insurance & intermediaries payables,2.89,6284.0,167.0,14196.0,0.0,6311.0,6683.0
+R0830,Reinsurance payables,0.0,7367.0,0.0,12428.0,0.0,1439.0,-40.0
+R0840,"Payables (trade, not insurance)",5117.24,80476.0,0.0,36973.0,1875.0,3609.0,13657.0
+R0850,Subordinated liabilities,0.0,151238.0,0.0,31306.0,0.0,0.0,0.0
+R0860,Subordinated liabilities not in BOF,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R0870,Subordinated liabilities in BOF,0.0,151238.0,0.0,31306.0,0.0,0.0,0.0
+R0880,"Any other liabilities, not elsewhere shown",657.8,11823.0,1169.0,19192.0,312.0,0.0,5600.0
+R0900,Total liabilities,400093.3,0.0,23879.0,949491.0,43158.0,177919.0,780042.0
+R1000,Excess of assets over liabilities,496901.07,0.0,27371.0,266432.0,72525.0,48133.0,324948.0

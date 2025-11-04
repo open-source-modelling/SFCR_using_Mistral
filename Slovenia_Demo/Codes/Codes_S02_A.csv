@@ -1,0 +1,42 @@
+﻿Row,Name,Code
+0,Neopredmetena sredstva,R0030
+1,Odložene terjatve za davek,R0040
+2,Presežek iz naslova pokojninskih shem,R0050
+3,Opredmetena osnovna sredstva v posesti za lastno uporabo,R0060
+4,"Naložbe (razen sredstev v posesti v zvezi s pogodbami, vezanimi na indeks ali enoto premoženja)",R0070
+5,Nepremičnine (razen za lastno uporabo),R0080
+6,"Deleži v povezanih podjetjih, vključno z udeležbami",R0090
+7,Lastniški vrednostni papirji,R0100
+8,"Lastniški vrednostni papirji, ki kotirajo na borzi",R0110
+9,"Lastniški vrednostni papirji, ki ne kotirajo na borzi",R0120
+10,Obveznice,R0130
+11,Državne obveznice,R0140
+12,Podjetniške obveznice,R0150
+13,Strukturirani vrednostni papirji,R0160
+14,"Vrednostni papirji, zavarovani s premoženjem",R0170
+15,Kolektivni naložbeni podjemi,R0180
+16,Izvedeni finančni instrumenti,R0190
+17,"Depoziti, ki niso denarni ustrezniki",R0200
+18,Druge naložbe,R0210
+19,"Sredstva v posesti v zvezi s pogodbami, vezanimi na indeks ali enoto premoženja",R0220
+20,Krediti in hipoteke,R0230
+21,"Krediti, vezani na police",R0240
+22,Krediti in hipoteke posameznikom,R0250
+23,Drugi krediti in hipoteke,R0260
+24,Izterljivi zneski iz pozavarovanj iz naslova:,R0270
+25,"neživljenjskih zavarovanj in zdravstvenih zavarovanj, podobnih neživljenjskim",R0280
+26,neživljenjskih zavarovanj brez zdravstvenih zavarovanj,R0290
+27,"zdravstvenih zavarovanj, podobnih neživljenjskim",R0300
+28,"življenjskih zavarovanj in zdravstvenih zavarovanj, podobnih življenjskim, razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja",R0310
+29,"zdravstvenih zavarovanj, podobnih življenjskim",R0320
+30,"življenjskih zavarovanj, razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja",R0330
+31,"življenjskih zavarovanj, vezanih na indeks ali enoto premoženja",R0340
+32,Depoziti pri cedentih,R0350
+33,Terjatve iz naslova zavarovanj in terjatve do posrednikov,R0360
+34,Terjatve iz naslova pozavarovanj,R0370
+35,"Terjatve (do kupcev, nepovezane z zavarovanjem)",R0380
+36,Lastne delnice (v posesti neposredno),R0390
+37,"Zneski, dolgovani podjetju v zvezi s postavkami lastnih sredstev ali ustanovnim kapitalom, ki je bil vpoklican in še ni vplačan",R0400
+38,Denar in denarni ustrezniki,R0410
+39,"Vsa druga sredstva, ki niso prikazana drugje",R0420
+40,Sredstva skupaj,R0500

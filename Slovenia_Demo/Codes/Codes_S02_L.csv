@@ -1,0 +1,40 @@
+﻿Row,Name,Code
+0,ZTR – Neživljenjska zavarovanja,R0510
+1,ZTR – Neživljenjska zavarovanja (brez zdravstvenih zavarovanj),R0520
+2,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0530
+3,Najboljša ocena,R0540
+4,Dodatek za tveganje,R0550
+5,ZTR – Zdravstvena zavarovanja (podobna neživljenjskim),R0560
+6,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0570
+7,Najboljša ocena,R0580
+8,Dodatek za tveganje,R0590
+9,"ZTR – Življenjska zavarovanja (razen zavarovanj, vezanih na indeks ali enoto premoženja)",R0600
+10,ZTR – Zdravstvena zavarovanja (podobna življenjskim),R0610
+11,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0620
+12,Najboljša ocena,R0630
+13,Dodatek za tveganje,R0640
+14,"ZTR – Življenjska zavarovanja (razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja)",R0650
+15,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0660
+16,Najboljša ocena,R0670
+17,Dodatek za tveganje,R0680
+18,"ZTR – Zavarovanja, vezana na indeks ali enoto premoženja",R0690
+19,"Zavarovalno-tehnične rezervacije, izračunane kot celota",R0700
+20,Najboljša ocena,R0710
+21,Dodatek za tveganje,R0720
+22,Pogojne obveznosti,R0740
+23,"Rezervacije, razen zavarovalno-tehničnih rezervacij",R0750
+24,Obveznosti iz naslova pokojninskih shem,R0760
+25,Depoziti pozavarovateljev,R0770
+26,Odložene obveznosti za davek,R0780
+27,Izvedeni finančni instrumenti,R0790
+28,"Zneski, dolgovani kreditnim institucijam",R0800
+29,"Finančne obveznosti, razen zneskov, dolgovanih kreditnim institucijam",R0810
+30,Obveznosti iz naslova zavarovanja in obveznosti do posrednikov,R0820
+31,Obveznosti iz naslova pozavarovanja,R0830
+32,"Obveznosti (do kupcev, nepovezane z zavarovanjem)",R0840
+33,Podrejene obveznosti,R0850
+34,"Podrejene obveznosti, ki niso del osnovnih lastnih sredstev",R0860
+35,"Podrejene obveznosti, ki so del osnovnih lastnih sredstev",R0870
+36,"Vse druge obveznosti, ki niso prikazane drugje",R0880
+37,Obveznosti skupaj,R0900
+38,Presežek sredstev nad obveznostmi,R1000

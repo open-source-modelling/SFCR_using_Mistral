@@ -1,0 +1,40 @@
+CODE,DESCRIPTION,C0010
+R0510,ZTR - Neživljenjska zavarovanja,413.179
+R0520,ZTR - Neživljenjska zavarovanja (brez zdravstvenih zavarovanj),403.688
+R0530,"Zavarovalno-tehnične rezervacije, izračunane kot celota",0
+R0540,Najboljša ocena,381.546
+R0550,Dodatek za tveganje,22.142
+R0560,ZTR - Zdravstvena zavarovanja (podobna neživljenjskim),9.492
+R0570,"Zavarovalno-tehnične rezervacije, izračunane kot celota",0
+R0580,Najboljša ocena,4.241
+R0590,Dodatek za tveganje,5.251
+R0600,"ZTR - Življenjska zavarovanja (razen zavarovanj, vezanih na indeks ali enoto premoženja)",149.727
+R0610,ZTR - Zdravstvena zavarovanja (podobna življenjskim),$-8.111$
+R0620,"Zavarovalno-tehnične rezervacije, izračunane kot celota",0
+R0630,Najboljša ocena,$-9.382$
+R0640,Dodatek za tveganje,1.271
+R0650,"ZTR - Življenjska zavarovanja (razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja)",157.838
+R0660,"Zavarovalno-tehnične rezervacije, izračunane kot celota",0
+R0670,Najboljša ocena,154.142
+R0680,Dodatek za tveganje,3.695
+R0690,"ZTR - Zavarovanja, vezana na indeks ali enoto premoženja",161.048
+R0700,"Zavarovalno-tehnične rezervacije, izračunane kot celota",0
+R0710,Najboljša ocena,158.648
+R0720,Dodatek za tveganje,2.401
+R0740,Pogojne obveznosti,0
+R0750,"Rezervacije, razen zavarovalno-tehničnih rezervacij",6.865
+R0760,Obveznosti iz naslova pokojninskih shem,0
+R0770,Depoziti pozavarovateljev,0
+R0780,Odložene obveznosti za davek,18.592
+R0790,Izvedeni finančni instrumenti,0
+R0800,"Zneski, dolgovani kreditnim institucijam",0
+R0810,"Finančne obveznosti, razen zneskov, dolgovanih kreditnim institucijam",4.730
+R0820,Obveznosti iz naslova zavarovanja in obveznosti do posrednikov,6.683
+R0830,Obveznosti iz naslova pozavarovanja,$-40$
+R0840,"Obveznosti (do kupcev, nepovezane z zavarovanjem)",13.657
+R0850,Podrejene obveznosti,0
+R0860,"Podrejene obveznosti, ki niso del osnovnih lastnih sredstev",0
+R0870,"Podrejene obveznosti, ki so del osnovnih lastnih sredstev",0
+R0880,"Vse druge obveznosti, ki niso prikazane drugje",5.600
+R0900,Obveznosti skupaj,780.042
+R1000,Presežek sredstev nad obveznostmi,324.948

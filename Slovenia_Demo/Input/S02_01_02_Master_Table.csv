@@ -1,0 +1,81 @@
+﻿CODE,NAME
+R0030,Intangible assets
+R0040,Deferred tax assets
+R0050,Pension benefit surplus
+R0060,"Property, plant & equipment held for own use"
+R0070,Investments (other than assets held for index-linked and unit-linked contracts)
+R0080,Property (other than for own use)
+R0090,"Holdings in related undertakings, including participations"
+R0100,Equities
+R0110,Equities - listed
+R0120,Equities - unlisted
+R0130,Bonds
+R0140,Government Bonds
+R0150,Corporate Bonds
+R0160,Structured notes
+R0170,Collateralised securities
+R0180,Collective Investments Undertakings
+R0190,Derivatives
+R0200,Deposits other than cash equivalents
+R0210,Other investments
+R0220,Assets held for index-linked and unit-linked contracts
+R0230,Loans and mortgages
+R0240,Loans on policies
+R0250,Loans and mortgages to individuals
+R0260,Other loans and mortgages
+R0270,Reinsurance recoverables from:
+R0280,Non-life and health similar to non-life 
+R0290,Non-life excluding health
+R0300,Health similar to non-life
+R0310,"Life and health similar to life, excluding health and index-linked and unit-linked"
+R0320,Health similar to life
+R0330,Life excluding health and index-linked and unit-linked
+R0340,Life index-linked and unit-linked
+R0350,Deposits to cedants
+R0360,Insurance and intermediaries receivables
+R0370,Reinsurance receivables
+R0380,"Receivables (trade, not insurance)"
+R0390,Own shares (held directly)
+R0400,Amounts due in respect of own fund items or initial fund called up but not yet paid in
+R0410,Cash and cash equivalents
+R0420,"Any other assets, not elsewhere shown "
+R0500,Total assets
+R0510,Technical provisions - non-life
+R0520,Technical provisions - non-life (excluding health)
+R0530,TP calculated as a whole
+R0540,Best estimate
+R0550,Risk margin
+R0560,Technical provisions - health (similar to non-life)
+R0570,TP calculated as a whole
+R0580,Best estimate
+R0590,Risk margin
+R0600,TP - life (excluding index-linked and unit-linked)
+R0610,Technical provisions - health (similar to life)
+R0620,TP calculated as a whole
+R0630,Best estimate
+R0640,Risk margin
+R0650,TP - life (excluding health and index-linked and unit-linked)
+R0660,TP calculated as a whole
+R0670,Best estimate
+R0680,Risk margin
+R0690,TP - index-linked and unit-linked
+R0700,TP calculated as a whole
+R0710,Best estimate
+R0720,Risk margin
+R0740,Contingent liabilities
+R0750,Provisions other than technical provisions
+R0760,Pension benefit obligations
+R0770,Deposits from reinsurers
+R0780,Deferred tax liabilities
+R0790,Derivatives
+R0800,Debts owed to credit institutions
+R0810,Financial liabilities other than debts owed to credit institutions
+R0820,Insurance & intermediaries payables
+R0830,Reinsurance payables
+R0840,"Payables (trade, not insurance)"
+R0850,Subordinated liabilities
+R0860,Subordinated liabilities not in BOF
+R0870,Subordinated liabilities in BOF
+R0880,"Any other liabilities, not elsewhere shown"
+R0900,Total liabilities
+R1000,Excess of assets over liabilities

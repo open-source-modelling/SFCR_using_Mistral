@@ -1,0 +1,40 @@
+CODE,DESCRIPTION,C0010
+R0520,Zavarovalno-tehnične rezervacije - neživljenjska zavarovanja (brez zdravstvenih zavarovanj),21
+R0530,"Zavarovalno-tehnične rezervacije, izračunane kot celota",
+R0540,Najboljša ocena,13
+R0550,Marža za tveganje,8
+R0560,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna neživljenjskim),13.887
+R0570,"Zavarovalno-tehnične rezervacije, izračunane kot celota",
+R0580,Najboljša ocena,11.294
+R0590,Marža za tveganje,2.593
+R0600,"Zavarovalno-tehnične rezervacije - življenjska zavarovanja (razen zavarovanj, vezanih na indeks ali enoto premoženja)",1.046
+R0610,Zavarovalno-tehnične rezervacije - zdravstvena zavarovanja (podobna življenjskim),1.046
+R0620,"Zavarovalno-tehnične rezervacije, izračunane kot celota",
+R0630,Najboljša ocena,316
+R0640,Marža za tveganje,729
+R0650,"Zavarovalno-tehnične rezervacije - življenjska zavarovanja (razen zdravstvenih zavarovanj in zavarovanj, vezanih na indeks ali enoto premoženja)",0
+R0660,"Zavarovalno-tehnične rezervacije, izračunane kot celota",
+R0670,Najboljša ocena,
+R0680,Marža za tveganje,
+R0690,"Zavarovalno-tehnične rezervacije - zavarovanja, vezana na indeks ali enoto premoženja",0
+R0700,"Zavarovalno-tehnične rezervacije, izračunane kot celota",
+R0710,Najboljša ocena,
+R0720,Marža za tveganje,
+R0730,Druge zavarovalno-tehnične rezervacije,
+R0740,Pogojne obveznosti,436
+R0750,"Rezervacije, razen zavarovalno-tehničnih rezervacij",24.856
+R0760,Obveznosti iz naslova pokojninskih shem,
+R0770,Depoziti pozavarovateljev,
+R0780,Odložene obveznosti za davek,312
+R0790,Izvedeni finančni instrumenti,
+R0800,"Zneski, dolgovani kreditnim institucijam",
+R0810,"Finančne obveznosti, razen zneskov, dolgovanih kreditnim institucijam",414
+R0820,Obveznosti iz naslova zavarovanja in obveznosti do posrednikov,0
+R0830,Obveznosti iz naslova pozavarovanja,0
+R0840,"Obveznosti (do kupcev, nepovezane z zavarovanjem)",1.875
+R0850,Podrejene obveznosti,
+R0860,"Podrejene obveznosti, ki niso del osnovnih lastnih sredstev",
+R0870,"Podrejene obveznosti, ki so del osnovnih lastnih sredstev",
+R0880,"Vse druge obveznosti, ki niso prikazane drugje",312
+R0900,Obveznosti skupaj,43.158
+R1000,Presežek sredstev nad obveznostmi,72.525
